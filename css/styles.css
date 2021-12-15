@@ -17,9 +17,9 @@ body {
 }
 
 .top-pic {
-    height: 300px;
-    width: 550px;
-    border-style: dotted;
+    height: 250px;
+    width: 250px;
+    border-style: double;
     border-color: ivory;
 }
 
