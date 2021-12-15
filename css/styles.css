@@ -25,4 +25,5 @@ body {
 
 h1, p, h3 {
     color: ivory;
+    font-family: 'JetBrains Mono', monospace;
 }
