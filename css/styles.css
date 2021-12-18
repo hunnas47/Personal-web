@@ -41,6 +41,10 @@ img:hover {
 .links a {
   color: aliceblue;
 }
+.links a:hover {
+  font-style: italic;
+  color: #56dbcc;
+}
 
 ul {
   list-style-type: none;
